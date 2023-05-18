@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 
     private final CreateService createService;
+    String a="a" ;
 
     @PostMapping("/create")
     public Createresponse createrecord(@RequestBody table1 table1){
