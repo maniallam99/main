@@ -21,7 +21,7 @@ public class Controller {
     String e="3";
     String d="4";
     String f="changed in feature3";
-
+    String g="my changes";
 
     @PostMapping("/create")
     public Createresponse createrecord(@RequestBody table1 table1){
