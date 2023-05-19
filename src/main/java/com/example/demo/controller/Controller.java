@@ -16,6 +16,7 @@ public class Controller {
 
     private final CreateService createService;
     String a="a" ;
+    String b="2";
 
     @PostMapping("/create")
     public Createresponse createrecord(@RequestBody table1 table1){
