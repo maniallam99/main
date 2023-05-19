@@ -18,6 +18,7 @@ public class Controller {
     String a="a" ;
     String b="2";
     String c="2";
+    String e="3";
 
     @PostMapping("/create")
     public Createresponse createrecord(@RequestBody table1 table1){
