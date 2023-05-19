@@ -20,7 +20,8 @@ public class Controller {
     String c="2";
     String e="3";
     String d="4";
-    String f="5";
+    String f="changed in feature3";
+
 
     @PostMapping("/create")
     public Createresponse createrecord(@RequestBody table1 table1){
