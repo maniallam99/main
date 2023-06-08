@@ -33,13 +33,7 @@ public class Controller {
     String l="change in 2";
 
 
-    String o="change in 1";
-    String n="change in 2";
-    String p="change in 2";
-    String r="change in 2";
-    String q="change in 1";
-    String s="change in 1";
-    String t="change in 2";
+
 
 
 
