@@ -15,36 +15,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 
     private final CreateService createService;
-    String a="a" ;
-    String b="2";
-    String c="2";
-    String e="3";
-    String d="4";
-    String f="changed in feature3";
-    String g="changed second time";
-    String i="changed in 2";
-    String h="change in 2";
-
-    String k="change in 1";
-    String j="change in 1";
-    String m="change in 1";
 
 
-    String l="change in 2";
-
-
-    String o="change in 1";
-    String n="change in 2";
-    String p="change in 2";
-    String r="change in 2";
-    String q="change in 1";
-    String s="change in 1";
-    String u="change in 1";
-    String u="change in 1";
-    String u="change in 1";
-    String t="change in 2";
-
-    String t="change in 2";
+  
 
 
 
