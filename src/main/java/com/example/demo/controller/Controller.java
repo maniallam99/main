@@ -19,7 +19,7 @@ public class Controller {
     String b="2";
     String c="2";
     String e="3";
-    String d="changed in feature3";
+    String d="4";
     String f="changed in feature3";
     String g="changed second time";
     String i="changed in 2";
