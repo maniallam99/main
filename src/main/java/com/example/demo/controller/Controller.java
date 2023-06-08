@@ -41,7 +41,7 @@ public class Controller {
     String u="change in 1";
     String t="change in 2";
 
-    String u="change in 1";
+
 
 
 
