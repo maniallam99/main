@@ -22,6 +22,8 @@ String a1="f2";
 
     String a4="f4";
 
+    String f4="f4";
+
 
 
 
