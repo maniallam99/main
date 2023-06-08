@@ -41,6 +41,7 @@ public class Controller {
     String q="change in 1";
     String s="change in 1";
     String u="change in 1";
+    String u="change in 1";
     String t="change in 2";
 
 
