@@ -27,6 +27,11 @@ public class Controller {
 
     String k="change in 1";
     String j="change in 1";
+    String m="change in 1";
+
+
+    String l="change in 2";
+
 
     String l="change in 2";
 
